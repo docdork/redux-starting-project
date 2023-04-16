@@ -4,3 +4,6 @@ This is a project from Maximilian Schwarzmüller, React - The Complete Guide (in
 
 
 Section 18, Diving into Redux.
+
+
+Uses Redux to create a simple counter.
